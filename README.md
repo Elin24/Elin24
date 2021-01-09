@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm [Elon Lin](https://github.com/Elin24)
 
-<!--
-**Elin24/Elin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing the Master degree from Center for Optical Imagery Analysis and Learning ([OPTIMAL](http://www.nwpu-optimal.cn/)).
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://github.com/mazdakpak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elin24&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elin24&layout=compact&langs_count=8&theme=vue-dark"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:elin24@163.com">Email</a>
+  &nbsp;&nbsp;
+  <a href="https://elin24.github.io/">HomePage</a>
+
+</p>
