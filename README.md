@@ -1,6 +1,6 @@
 ### Hi there, I'm [Elon Lin](https://github.com/Elin24)
 
-- 🔭 I’m currently pursuing the Master degree from Center for Optical Imagery Analysis and Learning ([OPTIMAL](http://www.nwpu-optimal.cn/)).
+- 🔭 I’m currently pursuing the Ph.D degree from Video, Image, and Sound Analysis Lab ([VISAL](http://visal.cs.cityu.edu.hk/)) at the City University of Hong Kong.
 
 <p align="center">
 <a href="https://github.com/elin24">
