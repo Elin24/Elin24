@@ -1,4 +1,4 @@
-### Hi there, I'm [Wei Lin](https://github.com/Elin24)
+### Hi there, I'm [Wei LIN](https://github.com/Elin24)
 
 - 🔭 I’m currently pursuing the Ph.D degree from Video, Image, and Sound Analysis Lab ([VISAL](http://visal.cs.cityu.edu.hk/)) at the City University of Hong Kong.
 
